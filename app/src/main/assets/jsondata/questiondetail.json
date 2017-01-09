@@ -1,0 +1,38 @@
+{
+	"questionDetails": [{
+		"question": "QUESTION 1: How many planets are there in our solar system?",
+		"OptionA": "Seven",
+		"OptionB": "Eight",
+		"OptionC": "Nine",
+		"OptionD": "Ten",
+		"answer": "B"
+	}, {
+		"question": "QUESTION 2: Name the first man in space?",
+		"OptionA": "Buzz Aldrin",
+		"OptionB": "Neil Armstrong",
+		"OptionC": "Yuri Gagarin",
+		"OptionD": "Chris Hatfield",
+		"answer": "C"
+	}, {
+		"question": "QUESTION 3: Which of these planets is third from the Sun?",
+		"OptionA": "Mercury",
+		"OptionB": "Uranus",
+		"OptionC": "Venus",
+		"OptionD": "Earth",
+		"answer": "D"
+	}, {
+		"question": "QUESTION 4: Which planet in our Solar System has the highest mountain and the deepest valley?",
+		"OptionA": "Earth",
+		"OptionB": "Mars",
+		"OptionC": "Jupiter",
+		"OptionD": "Saturn",
+		"answer": "B"
+	}, {
+		"question": "QUESTION 5: Which of these elements is Sun primarily made of.",
+		"OptionA": "Hydrogen",
+		"OptionB": "Nitrogen",
+		"OptionC": "Helium",
+		"OptionD": "Carbon",
+		"answer": "A"
+	}]
+}

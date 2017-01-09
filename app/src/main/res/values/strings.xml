@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Astronomy Quiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="login">Enter your details</string>
+    <string name="emailId">User name</string>
+    <string name="loginpassword">Password</string>
+    <string name="loginBtn">Login</string>
+    <string name="registerBtn">Register</string>
+    <string name="title_activity_register">Register</string>
+    <string name="registerHeading">Register for Astronomy Quiz</string>
+    <string name="registerconfirmpassword">Confirm password</string>
+    <string name="title_activity_play">StartPlay</string>
+    <string name="palyerName">User</string>
+    <string name="playerPrev">Prev</string>
+    <string name="playerNext">Next</string>
+    <string name="QuestionNum">Demo</string>
+    <string name="Questions">question</string>
+    <string name="playerSkip">CHEAT</string>
+    <string name="playersubmit">SKIP</string>
+    <string name="quizsubmit">SUBMIT</string>
+    <string name="title_activity_brief">Brief</string>
+    <string name="title_activity_quiz">QUIZ</string>
+    <string name="title_activity_result">RESULT</string>
+    <string name="title_activity_start_play">PLAY</string>
+    <string name="startsubmit">START</string>
+
+</resources>

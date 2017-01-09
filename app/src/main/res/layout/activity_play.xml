@@ -1,0 +1,78 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.quezzter.Play">
+
+    <TextView
+        android:id="@+id/playerName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/palyerName"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/questionTV"
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:layout_below="@+id/playerName"
+        android:layout_centerHorizontal="true"
+   		android:singleLine="false"
+        android:layout_marginTop="16dp"
+        android:text="@string/Questions" />
+
+    <Button
+        android:id="@+id/optionABtn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/questionTV"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"        
+        android:text="@string/Questions" />
+
+    <Button
+        android:id="@+id/optionBBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/optionABtn"
+        android:layout_centerHorizontal="true"       
+        android:text="@string/Questions" />
+
+    <Button
+        android:id="@+id/optionCBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/optionBBtn"
+        android:layout_centerHorizontal="true"       
+        android:text="@string/Questions" />
+
+    <Button
+        android:id="@+id/optionDBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/optionCBtn"
+        android:layout_centerHorizontal="true"
+        android:text="@string/Questions" />
+
+    <Button
+        android:id="@+id/playerSkip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/optionDBtn"
+        android:layout_below="@+id/optionDBtn"
+        android:layout_marginTop="14dp"
+        android:text="@string/playerSkip" />
+
+    <Button
+        android:id="@+id/playersubmitbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/playerSkip"
+        android:layout_alignRight="@+id/optionDBtn"
+        android:text="@string/playersubmit" />
+
+</RelativeLayout>

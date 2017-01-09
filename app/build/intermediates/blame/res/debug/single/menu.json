@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\register.xml",
+        "source": "C:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\src\\main\\res\\menu\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\play.xml",
+        "source": "C:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\src\\main\\res\\menu\\play.xml"
+    },
+    {
+        "merged": "C:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\start_play.xml",
+        "source": "C:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\src\\main\\res\\menu\\start_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\result.xml",
+        "source": "C:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\src\\main\\res\\menu\\result.xml"
+    },
+    {
+        "merged": "C:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\quiz.xml",
+        "source": "C:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\src\\main\\res\\menu\\quiz.xml"
+    }
+]

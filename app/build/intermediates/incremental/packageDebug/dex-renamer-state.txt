@@ -1,0 +1,7 @@
+#Mon Jan 09 00:44:34 GMT 2017
+base.0=C\:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4b65e81d2b3f1792f9b578ae442fae4bf448db0f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ac439289960bdc8a4c2c0939dcaf168e0566f556\\classes.dex
+base.1=C\:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ac439289960bdc8a4c2c0939dcaf168e0566f556
+file.0=C\:\\Users\\karol\\AndroidStudioProjects\\Quezzter2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4b65e81d2b3f1792f9b578ae442fae4bf448db0f\\classes.dex
